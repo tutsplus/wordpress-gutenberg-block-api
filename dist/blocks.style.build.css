@@ -1,0 +1,49 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-cgb-block-my-custom-block {
+  background: #a7d9f1;
+  color: #ffffff;
+  border: 1px solid #62afd4;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 1.5rem; }
+  .wp-block-cgb-block-my-custom-block ol, .wp-block-cgb-block-my-custom-block ul {
+    margin-left: 20px !important; }
+  .wp-block-cgb-block-my-custom-block li {
+    margin-bottom: 0; }
+  .wp-block-cgb-block-my-custom-block h3 {
+    color: #ffffff;
+    margin-top: 0; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ *
+ * Block styles for front end and backend.
+ */
+.wp-block-cgb-block-random-image {
+  background: #f3e88e;
+  color: #fff;
+  border: 2px solid #ead9a6;
+  border-radius: 10px;
+  padding: 5px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content; }
+  .wp-block-cgb-block-random-image img {
+    border-radius: inherit;
+    border: 1px dotted #caac69;
+    display: grid; }

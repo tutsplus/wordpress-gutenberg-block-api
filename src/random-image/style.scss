@@ -1,0 +1,21 @@
+/**
+ *
+ * Block styles for front end and backend.
+ */
+
+ .wp-block-cgb-block-random-image  {
+  background: #f3e88e;
+  color: #fff;
+  border: 2px solid #ead9a6;
+  border-radius: 10px;
+  padding: 5px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+
+  img {
+    border-radius: inherit;
+    border: 1px dotted #caac69;
+    display: grid;
+  }
+}

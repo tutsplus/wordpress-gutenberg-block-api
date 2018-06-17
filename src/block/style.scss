@@ -1,0 +1,28 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-my-custom-block  {
+  background: #a7d9f1;
+  color: #ffffff;
+  border: 1px solid #62afd4;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 1.5rem;
+
+  ol, ul {
+    margin-left: 20px !important;
+  }
+
+  li {
+    margin-bottom: 0;
+  }
+
+  h3 {
+    color: #ffffff;
+    margin-top: 0;
+  }
+}

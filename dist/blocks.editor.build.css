@@ -1,0 +1,29 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+.wp-block-cgb-block-my-custom-block {
+  background: #cba7f1;
+  border: 1px solid #a170d6; }
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ *
+ * Block styles for editor only.
+ */
+.wp-block-cgb-block-random-image select {
+  padding: 2px;
+  margin: 7px 0 5px 2px;
+  border-radius: 3px; }

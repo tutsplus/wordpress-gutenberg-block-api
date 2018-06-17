@@ -1,0 +1,11 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-cgb-block-my-custom-block  {
+  background: #cba7f1;
+  border: 1px solid #a170d6;
+}
